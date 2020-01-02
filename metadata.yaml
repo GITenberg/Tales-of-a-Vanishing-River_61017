@@ -1,5 +1,8 @@
 _repo: Tales-of-a-Vanishing-River_61017
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61017-h/images/cover.jpg
 creator:
   author:
     agent_name: Reed, Earl H. (Earl Howell)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49837'
     url: http://www.gutenberg.org/2009/agents/49837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61017#Tales-of-a-Vanishing-River
 gutenberg_issued: '2019-12-25'
 gutenberg_type: Text
 identifiers:
